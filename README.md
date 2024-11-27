@@ -1,7 +1,7 @@
 # [PyData Tel Aviv JupyterLab Extension Tutorial](https://telaviv2023.pydata.org/cfp/talk/3JNZUQ/)
 
 ## [The slides can be found by clicking here.](https://github.com/DanielGoldfarb/pydjlx/blob/main/Slides.pdf)  
-### Note that GitHub only displays a few slides a few slides at a time, so I suggest that after clicking the above link, then click the download button on the right side of that page to download the whole slide deck.
+### Note that GitHub only displays a few slides at a time, so I suggest that after clicking the above link, then click the download button on the right side of that page to download the whole slide deck.
 
 ---
 ---
